@@ -1,7 +1,29 @@
+/**************************TAG SELECTORS**************************/
+
 h1{
     color: brown;
     font-size: 80px;
 }
+
+/*
 img{
     background-color: brown;
+}
+*/
+
+/**************************CLASS SELECTORS**************************/
+
+.bacon{
+    background-color: green;
+    height: 99px;
+}
+
+.broccoli{
+    background-color: red;
+    height: 99px;
+}
+/**************************ID SELECTORS**************************/
+
+#heading {
+    color: blue;
 }
