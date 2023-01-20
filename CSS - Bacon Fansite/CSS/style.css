@@ -5,11 +5,11 @@ h1{
     font-size: 80px;
 }
 
-/*
-img{
-    background-color: brown;
+
+img:hover{
+    background-color: gold;
 }
-*/
+
 
 /**************************CLASS SELECTORS**************************/
 
