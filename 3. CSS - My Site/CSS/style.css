@@ -1,0 +1,40 @@
+/*--------------------------------------GENERAL TAGS--------------------------------------*/
+body{
+    margin: 0px;
+}
+
+h1{
+    margin: 0px;
+}
+
+/*--------------------------------------CONTAINERS--------------------------------------*/
+
+.top {
+    background-color: #F9F7F7;
+    width: 100%;
+    padding: 20px;
+    /* 
+    padding: 10px; /* space between content and border 
+    border: 10px; /* border around the box 
+    margin: 10px; /* space around the box 
+    */
+    
+}
+
+.middle {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 200px;
+    border: solid 10px green;
+
+}
+
+.bottom {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    margin-left: 420px;
+}
+
